@@ -1,0 +1,16 @@
+policy_id,sale_date,region,product_type,customer_type,premium_amount,policy_sold,premium_collected,sales_channel
+1001,2026-01-05,North,Health,New,42000,1,38000,Online
+1002,2026-01-08,North,Life,Renewal,55000,1,52000,Agent
+1003,2026-01-12,West,Motor,New,18000,1,16000,Branch
+1004,2026-01-16,South,Health,Renewal,36000,0,0,Agent
+1005,2026-01-20,East,Life,New,62000,1,59000,Online
+1006,2026-02-03,North,Motor,New,22000,1,20000,Branch
+1007,2026-02-07,West,Health,New,46000,1,43000,Agent
+1008,2026-02-11,South,Life,Renewal,58000,1,55000,Online
+1009,2026-02-15,East,Motor,Renewal,16000,0,0,Agent
+1010,2026-02-21,North,Health,New,44000,1,41000,Branch
+1011,2026-03-02,West,Life,New,67000,1,63000,Online
+1012,2026-03-06,South,Motor,New,21000,1,19000,Agent
+1013,2026-03-10,East,Health,Renewal,39000,1,37000,Branch
+1014,2026-03-14,North,Life,New,61000,1,58000,Agent
+1015,2026-03-19,West,Motor,Renewal,17000,0,0,Online
